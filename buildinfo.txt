@@ -1,0 +1,10 @@
+build.number = 1.5.1.3-RCPC-wheat-mandrill-PC
+code_changelist = 1221355
+branch_name = RCPC
+code_version = 1.5.1.3
+data_version = 1.5.1.3
+tes_version = 156.0
+creation_time = 2020-12-09T02:27:23
+masterfile_checkin_id = 5fcfaee78a23dd072a11539b
+data_changelist = 1221538
+tool_changelist = 1220353
